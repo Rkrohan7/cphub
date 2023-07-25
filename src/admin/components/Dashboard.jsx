@@ -50,8 +50,10 @@ const Dashboard = () => {
           </li>
         </ul>
       </div>
+      
 
       {/* Main Content */}
+       {/* Main Content */}
       <div className="w-4/5 p-6">
         <h2 className="text-xl font-bold mb-4">Welcome to the Dashboard</h2>
         {/* Add your main content here */}
